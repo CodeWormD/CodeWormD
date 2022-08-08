@@ -11,6 +11,11 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/vetinary1)
 
 
+## My pet projects
+
+### Simple [blog](https://github.com/CodeWormD/yatube_blog)
+### API [Review](https://github.com/CodeWormD/api_yamdb)
+
 ## My Stack
 
 ### Backend

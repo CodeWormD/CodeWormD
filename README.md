@@ -13,8 +13,8 @@
 
 ## My pet projects
 
-### Simple [blog](https://github.com/CodeWormD/yatube_blog)
-### API [Review](https://github.com/CodeWormD/api_yamdb)
+* Simple [blog](https://github.com/CodeWormD/yatube_blog)
+* API [Review](https://github.com/CodeWormD/api_yamdb)
 
 ## My Stack
 

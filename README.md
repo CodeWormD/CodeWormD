@@ -3,7 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=35&duration=3000&pause=2000&color=FFA3F1&center=true&vCenter=true&width=850&height=100&lines=I+am+a+Python+backend+developer" alt="Typing SVG" /></a>
 
 
-<img align="center" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" height="250px" alt="Typing SVG"/>
+<div  align="center"> <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" height="250px" alt="Typing SVG"/></div>
+
+
+[![VK](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/onlypainnogain)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/vetinary1)
 
 
 ## My Stack

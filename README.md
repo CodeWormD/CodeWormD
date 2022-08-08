@@ -22,6 +22,10 @@
 ![Django](https://img.shields.io/badge/-Django-0A2E22?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-black?style=for-the-badge&logo=django&logoColor=white)
 
+### Databases
+
+![SQLite](https://img.shields.io/badge/-SQLite-003C57?style=for-the-badge&logo=SQLite&logoColor=white)
+
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)

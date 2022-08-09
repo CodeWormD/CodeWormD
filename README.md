@@ -32,6 +32,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/-GitHub-363636?style=for-the-badge&logo=GitHub&logoColor=orange)
 
-### Stats
-
-![](https://komarev.com/ghpvc/?username=CodeWormD&color=ff69b4&style=for-the-badge)

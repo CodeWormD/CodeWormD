@@ -13,6 +13,7 @@
 
 * Simple [blog](https://github.com/CodeWormD/yatube_blog)
 * API [Review](https://github.com/CodeWormD/api_yamdb)
+* Simple [emailsender](https://github.com/CodeWormD/email_sender)
 
 ## My Stack
 

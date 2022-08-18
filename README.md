@@ -25,11 +25,13 @@
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/-SQLite-003C57?style=for-the-badge&logo=SQLite&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-2990D2?style=for-the-badge&logo=SQLite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003C57?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2C97E9?style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/-GitHub-363636?style=for-the-badge&logo=GitHub&logoColor=orange)
 

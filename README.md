@@ -10,10 +10,11 @@
 
 
 ## My pet projects
-
-* Simple [blog](https://github.com/CodeWormD/yatube_blog)
-* API [Review](https://github.com/CodeWormD/api_yamdb)
-* Simple [emailsender](https://github.com/CodeWormD/email_sender)
+(descriptions in links below)
+#### Simple [blog](https://github.com/CodeWormD/yatube_blog)
+#### API [Review](https://github.com/CodeWormD/api_yamdb)
+#### Simple [emailsender](https://github.com/CodeWormD/email_sender)
+#### Django-Postgres-[Docker](https://github.com/CodeWormD/django-postgres-docker-test)
 
 ## My Stack
 

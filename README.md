@@ -9,6 +9,21 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/vetinary1)
 
 
+
+| № | Name | Powered by | About | Link |
+|----------------|----------------|:---------:|----------------:|----------------:|
+|1| <span style="color: green"> Some green text </span>z | `Django` | Pet blog with comments, subscribes, posts, groups | [more details](https://github.com/CodeWormD/yatube_blog) |
+|2| текст | текст | текст |
+
+
+
+
+
+
+
+
+
+
 ## My pet projects
 (descriptions in links below)
 #### Simple [blog](https://github.com/CodeWormD/yatube_blog)

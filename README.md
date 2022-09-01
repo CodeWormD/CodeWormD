@@ -9,27 +9,19 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/vetinary1)
 
 
-
-| № | Name | Powered by | About | Link |
-|----------------|----------------|:---------:|----------------:|----------------:|
-|1| <span style="color: green"> Some green text </span>z | `Django` | Pet blog with comments, subscribes, posts, groups | [more details](https://github.com/CodeWormD/yatube_blog) |
-|2| текст | текст | текст |
-
-
-
-
-
-
-
-
-
-
 ## My pet projects
-(descriptions in links below)
-#### Simple [blog](https://github.com/CodeWormD/yatube_blog)
-#### API [Review](https://github.com/CodeWormD/api_yamdb)
-#### Simple [emailsender](https://github.com/CodeWormD/email_sender)
-#### Django-Postgres-[Docker](https://github.com/CodeWormD/django-postgres-docker-test)
+
+
+| № | Name | Powered by | About |
+|----------------|----------------|:---------:|:----------------|
+|1| [Simple blog yatube](https://github.com/CodeWormD/yatube_blog)| `Django` | Pet blog with comments, subscribes, posts, groups |
+|2| [Unittest Simple blog yatube](https://github.com/CodeWormD/hw04_tests/tree/master/yatube/posts/tests) | `Django`, `Unittest`| Unittests for blog |
+|3| [API Simple blog yatube](https://github.com/CodeWormD/api_yatube_v2) | `Django`, `DRF`, `SimpleJWT` | API for Simple blog yatube |
+|4| [Simple emailsender](https://github.com/CodeWormD/email_sender) | `Python`, `smtplib`| Simple emailsender(mail.ru) with logging |
+|5| [API Review blog](https://github.com/CodeWormD/api_yamdb) | `Django`, `DRF`, `SimpleJWT` | API for site with reviews on different titles(films, books etc) |
+|6| [URL-shortener](https://github.com/CodeWormD/Django-Url-Shortener-v2) | `Django`, `Docker` | If you have to make your link short just use it |
+|7| [Django-Postgres-Docker](https://github.com/CodeWormD/django-postgres-docker-test) | `Django`, `Docker`, `PostgreSQL` | Train to use Docker for containing Django and PostgreSQL |
+
 
 ## My Stack
 

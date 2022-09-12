@@ -30,11 +30,15 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/-Django-0A2E22?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-black?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-ADDCB8?style=for-the-badge&logo=Pydantic&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-76534C?style=for-the-badge&logo=Alembic&logoColor=white)
 
-### Databases
+### Databases / ORM
 
 ![SQLite](https://img.shields.io/badge/-SQLite-2990D2?style=for-the-badge&logo=SQLite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003C57?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-EBBC75?style=for-the-badge&logoColor=white)
 
 ### Tools
 

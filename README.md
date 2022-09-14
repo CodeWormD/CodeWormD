@@ -21,6 +21,7 @@
 |5| [API Review blog](https://github.com/CodeWormD/api_yamdb) | `Django`, `DRF`, `SimpleJWT` | API for site with reviews on different titles(films, books etc) |
 |6| [URL-shortener](https://github.com/CodeWormD/Django-Url-Shortener-v2) | `Django`, `Docker` | If you have to make your link short just use it |
 |7| [Django-Postgres-Docker](https://github.com/CodeWormD/django-postgres-docker-test) | `Django`, `Docker`, `PostgreSQL` | Train to use Docker for containing Django and PostgreSQL |
+|8| [FastAPI-blog](https://github.com/CodeWormD/FastAPI-blog) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | First FastAPI project for learning |
 
 
 ## My Stack

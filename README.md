@@ -22,6 +22,7 @@
 |6| [URL-shortener](https://github.com/CodeWormD/Django-Url-Shortener-v2) | `Django`, `Docker` | If you have to make your link short just use it |
 |7| [Django-Postgres-Docker](https://github.com/CodeWormD/django-postgres-docker-test) | `Django`, `Docker`, `PostgreSQL` | Train to use Docker for containing Django and PostgreSQL |
 |8| [FastAPI-blog](https://github.com/CodeWormD/FastAPI-blog) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | First FastAPI project for learning |
+|9| [FastAPI-picnic](https://github.com/CodeWormD/FastAPI-Picnics) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | Picnic events |
 
 
 ## My Stack

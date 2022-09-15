@@ -12,17 +12,17 @@
 ## My pet projects
 
 
-| № | Name | Powered by | About |
+| № | Проект | Технологии | О проекте |
 |----------------|----------------|:---------:|:----------------|
-|1| [Simple blog yatube](https://github.com/CodeWormD/yatube_blog)| `Django` | Pet blog with comments, subscribes, posts, groups |
-|2| [Unittest Simple blog yatube](https://github.com/CodeWormD/hw04_tests/tree/master/yatube/posts/tests) | `Django`, `Unittest`| Unittests for blog |
-|3| [API Simple blog yatube](https://github.com/CodeWormD/api_yatube_v2) | `Django`, `DRF`, `SimpleJWT` | API for Simple blog yatube |
-|4| [Simple emailsender](https://github.com/CodeWormD/email_sender) | `Python`, `smtplib`| Simple emailsender(mail.ru) with logging |
-|5| [API Review blog](https://github.com/CodeWormD/api_yamdb) | `Django`, `DRF`, `SimpleJWT` | API for site with reviews on different titles(films, books etc) |
-|6| [URL-shortener](https://github.com/CodeWormD/Django-Url-Shortener-v2) | `Django`, `Docker` | If you have to make your link short just use it |
-|7| [Django-Postgres-Docker](https://github.com/CodeWormD/django-postgres-docker-test) | `Django`, `Docker`, `PostgreSQL` | Train to use Docker for containing Django and PostgreSQL |
-|8| [FastAPI-blog](https://github.com/CodeWormD/FastAPI-blog) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | First FastAPI project for learning |
-|9| [FastAPI-picnic](https://github.com/CodeWormD/FastAPI-Picnics) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | Picnic events |
+|1| [Simple blog yatube](https://github.com/CodeWormD/yatube_blog)| `Django` | Блог с подписками, комментариями группами и постами |
+|2| [Unittest Simple blog yatube](https://github.com/CodeWormD/hw04_tests/tree/master/yatube/posts/tests) | `Django`, `Unittest`| Unittests для Блога |
+|3| [API Simple blog yatube](https://github.com/CodeWormD/api_yatube_v2) | `Django`, `DRF`, `SimpleJWT` | API для Simple blog yatube |
+|4| [Simple emailsender](https://github.com/CodeWormD/email_sender) | `Python`, `smtplib`| Простой emailsender(mail.ru) с logging |
+|5| [API Review blog](https://github.com/CodeWormD/api_yamdb) | `Django`, `DRF`, `SimpleJWT` | API для сайта с отзывами |
+|6| [URL-shortener](https://github.com/CodeWormD/Django-Url-Shortener-v2) | `Django`, `Docker` | Сокращатель ссылок |
+|7| [Django-Postgres-Docker](https://github.com/CodeWormD/django-postgres-docker-test) | `Django`, `Docker`, `PostgreSQL` | Тренировка настройки Docker и PostgreSQL |
+|8| [FastAPI-blog](https://github.com/CodeWormD/FastAPI-blog) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | Первый тренировочный проект на FastAPI |
+|9| [FastAPI-picnic](https://github.com/CodeWormD/FastAPI-Picnics) | `FastAPI`, `SQLAlchemy,` `Alembic`, `Pydantic` | Регистрация на Пикник |
 
 
 ## My Stack
